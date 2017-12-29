@@ -1,6 +1,6 @@
 # hostingraja.in-Enable-port26-in-postfix
 
-The code enables the port 26 in postfix
+The code enables the port 26 in postfix in HostingRaja server.
 
 #!/usr/bin/env bash
 
@@ -636,4 +636,7 @@ Ex sh shellscript.sh disable
 After run this command, rest of the operation part will be taken care by script
 
 If client want to know what is happen when  he is running shell script he can check all detail in /var/log/smtp_log
+
+
+Most of the complex functions are transformed to simple front end interface at HostingRaja. To know more about the plans and features offered kindly navigate to HostingRaja.in
 
